@@ -1,0 +1,23 @@
+{
+  "name": "cripto-dashboard-publico",
+  "version": "1.0.0",
+  "description": "dashboard publico de operacion cripto con binance",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umbrellatec2016/cripto-dashboard-publico.git"
+  },
+  "keywords": [
+    "dashboard",
+    "cripto"
+  ],
+  "author": "christian cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umbrellatec2016/cripto-dashboard-publico/issues"
+  },
+  "homepage": "https://github.com/umbrellatec2016/cripto-dashboard-publico#readme"
+}
